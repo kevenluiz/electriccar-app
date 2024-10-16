@@ -5,7 +5,14 @@ I'm Keven Luiz! I'm here to contribute my knowledge on this Android application 
 
 
 # electriccar-app
-Repository created with the intention of demonstrating practices of using kotlin and applications in my first Android application. Feel free to forke and add more improvements.
+It was created to calculate the autonomy of the electric car chosen by the user, and
+demonstrate practical use of Kotlin and its applications on Android. The module
+covers fundamental Android concepts with Kotlin, including principles and
+UI layouts, user input, multi-screen, basics of
+networking, JSON API consumption and data storage in applications. The code
+was structured using MVVM and MVP architecture patterns, it was used
+practices of clean code (Clean code), and also the principle of Clean Architecture
+more design patterns.
 
 <img src="https://raw.githubusercontent.com/kevenluiz/electric-car-app/Master2/image.png" width="250">
 
